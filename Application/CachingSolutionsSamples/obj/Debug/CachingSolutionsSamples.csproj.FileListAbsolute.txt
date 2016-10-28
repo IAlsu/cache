@@ -1,0 +1,16 @@
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\CachingSolutionsSamples.dll.config
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\CachingSolutionsSamples.dll
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\CachingSolutionsSamples.pdb
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\EntityFramework.dll
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\NorthwindLibrary.dll
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\StackExchange.Redis.dll
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\NorthwindLibrary.pdb
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\EntityFramework.xml
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\bin\Debug\StackExchange.Redis.xml
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\obj\Debug\CachingSolutionsSamples.csprojResolveAssemblyReference.cache
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\obj\Debug\CachingSolutionsSamples.dll
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\CachingSolutionsSamples\obj\Debug\CachingSolutionsSamples.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\bin\Debug\NorthwindLibrary.dll.config
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\bin\Debug\NorthwindLibrary.dll
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\bin\Debug\NorthwindLibrary.pdb
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.dll
+C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.pdb
