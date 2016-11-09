@@ -19,7 +19,15 @@ namespace CachingSolutionsSamples
 				Console.WriteLine(categoryManager.GetCategories().Count());
 				Thread.Sleep(100);
 			}
-		}
+
+            var orderManager = new OrdersManager(new OrdersMemoryCache());
+
+            for (var i = 0; i < 10; i++)
+            {
+                Console.WriteLine(orderManager.GetOrders().Count());
+                Thread.Sleep(100);
+            }
+        }
 
 		[TestMethod]
 		public void RedisCache()
@@ -31,6 +39,14 @@ namespace CachingSolutionsSamples
 				Console.WriteLine(categoryManager.GetCategories().Count());
 				Thread.Sleep(100);
 			}
-		}
+
+            var orderManager = new OrdersManager(new OrdersRedisCache("localhost"));
+
+            for (var i = 0; i < 10; i++)
+            {
+                Console.WriteLine(orderManager.GetOrders().Count());
+                Thread.Sleep(100);
+            }
+        }
 	}
 }

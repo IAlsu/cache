@@ -4,3 +4,9 @@ C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Fibonacci\bin\Debug\Fibonacci.pdb
 C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
 C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Fibonacci\obj\Debug\Fibonacci.exe
 C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Fibonacci\obj\Debug\Fibonacci.pdb
+D:\МОЁ\Tasks\Task14_Cache\Samples\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\МОЁ\Tasks\Task14_Cache\Samples\Fibonacci\obj\Debug\Fibonacci.exe
+D:\МОЁ\Tasks\Task14_Cache\Samples\Fibonacci\obj\Debug\Fibonacci.pdb
+D:\МОЁ\Tasks\Task14_Cache\Samples\Fibonacci\bin\Debug\Fibonacci.exe
+D:\МОЁ\Tasks\Task14_Cache\Samples\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\МОЁ\Tasks\Task14_Cache\Samples\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache

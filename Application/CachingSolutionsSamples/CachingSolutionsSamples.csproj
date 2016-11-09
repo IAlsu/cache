@@ -71,6 +71,10 @@
     <Compile Include="CategoriesRedisCache.cs" />
     <Compile Include="ICategoriesCache.cs" />
     <Compile Include="CacheTests.cs" />
+    <Compile Include="IOrdersCache.cs" />
+    <Compile Include="OrdersManager.cs" />
+    <Compile Include="OrdersMemoryCache.cs" />
+    <Compile Include="OrdersRedisCache.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

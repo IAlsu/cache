@@ -4,3 +4,9 @@ C:\Users\Alsu_Islamova\Desktop\Caching\Samples\HTTP\Client\bin\Debug\Microsoft.V
 C:\Users\Alsu_Islamova\Desktop\Caching\Samples\HTTP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 C:\Users\Alsu_Islamova\Desktop\Caching\Samples\HTTP\Client\obj\Debug\Client.dll
 C:\Users\Alsu_Islamova\Desktop\Caching\Samples\HTTP\Client\obj\Debug\Client.pdb
+D:\МОЁ\Tasks\Task14_Cache\Samples\HTTP\Client\bin\Debug\Client.dll
+D:\МОЁ\Tasks\Task14_Cache\Samples\HTTP\Client\bin\Debug\Client.pdb
+D:\МОЁ\Tasks\Task14_Cache\Samples\HTTP\Client\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\МОЁ\Tasks\Task14_Cache\Samples\HTTP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\МОЁ\Tasks\Task14_Cache\Samples\HTTP\Client\obj\Debug\Client.dll
+D:\МОЁ\Tasks\Task14_Cache\Samples\HTTP\Client\obj\Debug\Client.pdb

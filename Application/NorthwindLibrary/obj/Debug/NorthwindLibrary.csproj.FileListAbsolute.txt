@@ -8,3 +8,13 @@ C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\bin\
 C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.csprojResolveAssemblyReference.cache
 C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.dll
 C:\Users\Alsu_Islamova\Desktop\Caching\Samples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.pdb
+D:\МОЁ\Tasks\Task14_Cache\Samples\Application\NorthwindLibrary\bin\Debug\NorthwindLibrary.dll.config
+D:\МОЁ\Tasks\Task14_Cache\Samples\Application\NorthwindLibrary\bin\Debug\NorthwindLibrary.dll
+D:\МОЁ\Tasks\Task14_Cache\Samples\Application\NorthwindLibrary\bin\Debug\NorthwindLibrary.pdb
+D:\МОЁ\Tasks\Task14_Cache\Samples\Application\NorthwindLibrary\bin\Debug\EntityFramework.dll
+D:\МОЁ\Tasks\Task14_Cache\Samples\Application\NorthwindLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\МОЁ\Tasks\Task14_Cache\Samples\Application\NorthwindLibrary\bin\Debug\EntityFramework.xml
+D:\МОЁ\Tasks\Task14_Cache\Samples\Application\NorthwindLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\МОЁ\Tasks\Task14_Cache\Samples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.csprojResolveAssemblyReference.cache
+D:\МОЁ\Tasks\Task14_Cache\Samples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.dll
+D:\МОЁ\Tasks\Task14_Cache\Samples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.pdb
